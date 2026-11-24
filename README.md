@@ -55,12 +55,14 @@ These findings describe statistical associations rather than causal effects.
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Statsmodels · SciPy · Jupyter Notebook
 
+
 ## Project Files
 
-- `Project.ipynb` — Python analysis, visualizations, and regression models
-- `Students Social Media Addiction.csv` — Dataset
-- `Project_Proposal.md` — Original research proposal
-- `Final_Project_Report.pdf` — Original submitted report
+- [Python Analysis Notebook](Project.ipynb)
+- [Original Dataset](Students%20Social%20Media%20Addiction.csv)
+- [Final Project Report](Final%20Project%20Report.pdf)
+- [Project Proposal](MATH_189_Project_Proposal.pdf)
+
 
 ## Team Members
 
