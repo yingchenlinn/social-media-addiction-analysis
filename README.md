@@ -51,17 +51,60 @@ In the fitted interaction models, increasing age strengthened the negative assoc
 
 These findings describe statistical associations rather than causal effects.
 
-## Technologies Used
 
-Python · Pandas · NumPy · Matplotlib · Seaborn · Statsmodels · SciPy · Jupyter Notebook
+## Installation & Usage
+
+### Requirements
+
+This project uses Python and Jupyter Notebook for statistical analysis and data visualization.
+
+Required Python libraries:
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Statsmodels
+- SciPy
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yingchenlinn/social-media-addiction-analysis.git
+cd social-media-addiction-analysis
+```
+
+Install the required Python packages:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+### Running the Analysis
+
+1. Open `Project.ipynb` using Jupyter Notebook.
+2. Ensure that `Students Social Media Addiction.csv` is in the same directory.
+3. Select **Kernel → Restart & Run All**.
+4. Review the exploratory analysis, regression models, interaction effects, and diagnostic plots.
+
+### Reproducibility
+
+The notebook contains the original statistical analysis from our collaborative MATH 189 course project.
+
+The analysis includes data preprocessing, exploratory data analysis, six regression models, and regression diagnostics.
+
+
 
 
 ## Project Files
 
 - [Python Analysis Notebook](Project.ipynb)
-- [Original Dataset](Students%20Social%20Media%20Addiction.csv)
+- [Dataset](Students%20Social%20Media%20Addiction.csv)
 - [Final Project Report](Final%20Project%20Report.pdf)
 - [Project Proposal](MATH_189_Project_Proposal.pdf)
+- [Python Dependencies](requirements.txt)
+
 
 
 ## Team Members
